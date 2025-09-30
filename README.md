@@ -1,5 +1,5 @@
 # Stress_Management_Case_Study
-# 3.2 Stress Management: Academic and Personal Stressors Coping strategies and relaxation
+# Stress Management: Academic and Personal Stressors Coping strategies and relaxation
 
 **Case Study:** Developing Emotional Resilience and Essential Life Skills for a Balanced Life
 
